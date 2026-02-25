@@ -33,19 +33,19 @@ The app focuses on an **intuitive UI/UX** similar to leading hotel booking platf
 
 | Home Screen |
 |:-----------:|
-| <img src="https://github.com/6510615229/TU-Dormitory/blob/32d7ac38b3e590dca8ab26fed101717bc8a9e65e/TU%20Dormitory.png" width="1000"> |
+| <img src="https://github.com/6510615229/TU-Dormitory/blob/385e0236557991e43d0d8c2ca069b20cacc52891/Screenshots/Home%20Screen.png" width="1000"> |
 
 | Search Filter |
 |:-------------:|
-| <img src="https://github.com/6510615229/TU-Dormitory/blob/32d7ac38b3e590dca8ab26fed101717bc8a9e65e/TU%20Dormitory.png" width="1000"> |
+| <img src="https://github.com/6510615229/TU-Dormitory/blob/385e0236557991e43d0d8c2ca069b20cacc52891/Screenshots/Search%20Filter.png" width="1000"> |
 
 | Favorite Page |
 |:------------:|
-| <img src="https://github.com/6510615229/TU-Dormitory/blob/32d7ac38b3e590dca8ab26fed101717bc8a9e65e/TU%20Dormitory.png" width="1000"> |
+| <img src="https://github.com/6510615229/TU-Dormitory/blob/385e0236557991e43d0d8c2ca069b20cacc52891/Screenshots/Favorite%20Page.png" width="1000"> |
 
 | Dorm Page |
 |:------------:|
-| <img src="https://github.com/6510615229/TU-Dormitory/blob/32d7ac38b3e590dca8ab26fed101717bc8a9e65e/TU%20Dormitory.png" width="1000"> |
+| <img src="https://github.com/6510615229/TU-Dormitory/blob/385e0236557991e43d0d8c2ca069b20cacc52891/Screenshots/Dorm%20Page.png" width="1000"> |
 
 
 ## 🚀 How to Run
@@ -69,6 +69,9 @@ Alternatively, you can download the APK file to install directly on your Android
 
 ## 👨‍💻 Contributors
 
-*   **[Your Name]** - *Computer Engineering Student, Thammasat University*
+*   Jakapat Sombatcharoenmuang
+*   Chinenar Tengjirathanapa
+*   Thanaphon Praditsindee
+*   Pholkrit Kanyayon
 
 ---
